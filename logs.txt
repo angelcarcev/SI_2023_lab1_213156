@@ -1,0 +1,37 @@
+C:\Users\carce\SI_2023_lab1_213156>git log
+commit 0e52154342abcc437eb8ad7be9ddf130dcc5c0b5 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: angelcarcev <carcevangel@gmail.com>
+Date:   Wed Apr 5 19:02:25 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 28a8eedd1a7d6d1282af27372380828dc71e4ea1
+Merge: 7c56989 b73c53e
+Author: angelcarcev <carcevangel@gmail.com>
+Date:   Wed Apr 5 19:04:45 2023 +0200
+
+    Merge branch 'bug2'
+
+commit b73c53e046440aea012b95c32e3d7084f5b5fc9b (origin/bug2, bug2)
+Author: angelcarcev <carcevangel@gmail.com>
+Date:   Wed Apr 5 19:01:25 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7c56989384287296071b7b03212e20e5e8927227 (origin/bug1, bug1)
+Author: angelcarcev <carcevangel@gmail.com>
+Date:   Wed Apr 5 19:00:28 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 6b3c3e7b541c613b7895b876076e1aa656ea030f
+Author: angelcarcev <carcevangel@gmail.com>
+Date:   Wed Apr 5 18:58:42 2023 +0200
+
+    Add java class
+
+commit 97c78ccc544effbb4cbfcb366e9225e20486e37d
+Author: angelcarcev <carcevangel@gmail.com>
+Date:   Wed Apr 5 18:56:41 2023 +0200
+
+    Initial commit
